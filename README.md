@@ -1,4 +1,4 @@
-# apipeliculas_53844
+# apipeliculas
 
 # CREAR ARCHIVO .env
 RENOMBRAR .env.example -> .env
