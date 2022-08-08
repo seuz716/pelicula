@@ -17,7 +17,7 @@ require('dotenv').config();
     INICIAR LA CONFIGURACIÓN
 */
 const app = express();
-const port = process.env.API_PORT || 3600;
+const port = process.env.API_PORT || 3700;
 app.use(cors());
 app.use(helmet());
 app.use(compression());
