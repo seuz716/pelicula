@@ -35,13 +35,10 @@ app.use("/api/usuarios", controladorUsuarios);
     CONFIGURAR LA CARPETA PÚBLICA.
 */
 // /apipelicuas_53844/public = __dirname
-const publicPath = path.resolve(__dirname, 'public');
+/* const publicPath = path.resolve(__dirname, 'public');
 app.use(express.static(publicPath));
 
-app.get("/", function(req, res){
-    res.sendFile( path.join(__dirname+'./index.html'));
-});
-
+app.get("/", function(req, res){res.sendFile( path.join(__dirname+'./index.html'));}); */
 /*
     CONFIGURAR EL PUERTO  QUE VA A MONITOREAR EL API.
 */
