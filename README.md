@@ -1,0 +1,2 @@
+# pelicula
+app sinopsis peliculas
