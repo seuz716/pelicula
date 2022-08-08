@@ -1,2 +1,5 @@
-# pelicula
-app sinopsis peliculas
+# apipeliculas_53844
+
+# CREAR ARCHIVO .env
+RENOMBRAR .env.example -> .env
+CONFIGURAR LAS VARIABLES DE ENTORNO
